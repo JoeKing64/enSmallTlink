@@ -1,4 +1,5 @@
-# 本项目旨在缩小Mac端Tlink App的图标大小，缩小到原来的78%，使其和别的App站一排时候不会更大
+# 本项目旨在缩小Mac端Tlink App的图标大小
+缩小到原来的78%，使其和别的App站一排时候不会更大
 
 ## 核心逻辑
 解包 /Applications/Tlink.app/Contents/Resources/icon.icns  里面的一组png，将其缩小到原来的78%，重新打包后再替换

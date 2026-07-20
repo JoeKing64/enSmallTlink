@@ -9,6 +9,7 @@
 
 ## 使用方法：
 1.下载 [enSmallTlink.sh](./enSmallTlink.sh) 放到桌面；
+
 2.打开「终端」，输入授权命令：
 ```bash
 chmod +x ~/Desktop/enSmallTlink.sh
@@ -21,6 +22,7 @@ chmod +x ~/Desktop/enSmallTlink.sh
 
 ## 还原方法：
 1.下载 [reLargeTlink.sh](./reLargeTlink.sh) 放到桌面；
+
 2.打开「终端」，输入授权命令：
 ```bash
 chmod +x ~/Desktop/reLargeTlink.sh
